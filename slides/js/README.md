@@ -2,5 +2,5 @@
 
 Credits:
 
-- [Karol Kowalczuk](karol.kowalczuk@jit.team)
-- [Bartosz Szafran](bartosz.szafran@jit.team)
+- [Karol Kowalczuk](mailto:karol.kowalczuk@jit.team)
+- [Bartosz Szafran](mailto:bartosz.szafran@jit.team)
