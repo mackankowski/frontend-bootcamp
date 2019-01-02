@@ -1,6 +1,6 @@
 # Frontend Bootcamp
 
-Beginner's tranings about frontend technologies' stack.
+Beginner's training within frontend technologies' stack.
 
 ### What is covered?
 
