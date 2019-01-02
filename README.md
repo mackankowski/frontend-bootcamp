@@ -8,8 +8,8 @@ Bootcamp content to include [slides](slides/) and [codes playground](playground/
 
 - HTML `5` ([slides](slides/html), [playground](playground/html))
 - CSS `3` ([slides](slides/css), [playground](playground/css))
-- JavaScript `ES6` (playground: [StopWatch](playground/js/stopWatch), [ToDoList](playground/js/toDoList))
-- React.js (playground: [boilerplate](playground/react/create-react-app), [Postcard App](playground/react/postcard-app))
+- JavaScript `ES6` ([slides](slides/js), playground: [StopWatch](playground/js/stopWatch), [ToDoList](playground/js/toDoList))
+- React.js ([slides](slides/react), playground: [boilerplate](playground/react/create-react-app), [Postcard App](playground/react/postcard-app))
 
 _Bonus_:
 
