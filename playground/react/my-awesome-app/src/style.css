@@ -1,0 +1,19 @@
+.row {
+  display: table;
+}
+
+.cell {
+  display: table-cell;
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+}
+
+.cell:hover {
+  background: yellow;
+  cursor: pointer;
+}
+
+.cell:active {
+  background: gray;
+}
