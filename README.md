@@ -18,18 +18,8 @@ _Bonus_:
 
 ### Contributors
 
-_Current:_
-
-[Mateusz Gajewski-Tuttle](https://www.linkedin.com/in/mateusz-gajewski-tuttle/)
-
-[Jan Hanc](https://www.linkedin.com/in/jan-hanc-068921168/)
-
-[Łukasz Stefański](https://www.linkedin.com/in/lukaszstefanski92/)
-
-_Past:_
-
-[Karol Kowalczuk](https://www.linkedin.com/in/kkowalcz92/)
-
-[Bartosz Szafran](https://www.linkedin.com/in/bartosz-szafran-818985103/)
-
-[Nicole Dix](https://www.linkedin.com/in/nicoledix/)
+| Current  | Past |
+|---|---|
+| [Mateusz Gajewski-Tuttle](https://www.linkedin.com/in/mateusz-gajewski-tuttle/) | [Karol Kowalczuk](https://www.linkedin.com/in/kkowalcz92/) |
+| [Jan Hanc](https://www.linkedin.com/in/jan-hanc-068921168/) | [Bartosz Szafran](https://www.linkedin.com/in/bartosz-szafran-818985103/) |
+| [Łukasz Stefański](https://www.linkedin.com/in/lukaszstefanski92/) | [Nicole Dix](https://www.linkedin.com/in/nicoledix/)  |
