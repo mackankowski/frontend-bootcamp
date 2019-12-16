@@ -21,11 +21,15 @@ _Bonus_:
 _Current:_
 
 [Mateusz Gajewski-Tuttle](https://www.linkedin.com/in/mateusz-gajewski-tuttle/)
+
 [Jan Hanc](https://www.linkedin.com/in/jan-hanc-068921168/)
+
 [Łukasz Stefański](https://www.linkedin.com/in/lukaszstefanski92/)
 
 _Past:_
 
 [Karol Kowalczuk](https://www.linkedin.com/in/kkowalcz92/)
+
 [Bartosz Szafran](https://www.linkedin.com/in/bartosz-szafran-818985103/)
+
 [Nicole Dix](https://www.linkedin.com/in/nicoledix/)
